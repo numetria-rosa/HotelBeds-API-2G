@@ -572,7 +572,7 @@ if ($ROOMS > 1) {
           <div class="ml-50 lg:ml-0">
             <div class="px-30 py-30 border-light rounded-4 mt-30">
               <div style="overflow:hidden;max-width:100%;width:300px;height:170px;">
-                <div id="g-mapdisplay" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=<?php echo $Latitude ?>,<?php echo $Longitude ?>&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="googlecoder" rel="nofollow" href="https://www.bootstrapskins.com/themes" id="get-data-for-embed-map"></a>
+                <div id="g-mapdisplay" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=<?php echo $Latitude ?>,<?php echo $Longitude ?>&key=xxxxxxxxxxxxxxx></iframe></div><a class="googlecoder" rel="nofollow" href="https://www.bootstrapskins.com/themes" id="get-data-for-embed-map"></a>
                 <style>
                   #g-mapdisplay img {
                     max-height: none;
