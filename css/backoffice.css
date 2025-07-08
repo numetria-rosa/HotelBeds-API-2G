@@ -1,0 +1,146 @@
+
+@font-face {
+  font-family: FontBoL;
+  src: url("../fonts/Uni\ Sans\ Light.otf");
+}
+@font-face {
+  font-family: FontBo;
+  src: url("../fonts/Uni\ Sans\ Regular.otf");
+}
+body {
+  /*font-family: FontBo;*/
+}
+.impactProfile_DmcHead {
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0.1rem 0.8rem #0000001a;
+}
+.empireP_Header {
+  background-color: #3554d1;
+  padding-bottom: 2rem;
+}
+.impactProfile_DmcHeadImage {
+  text-align: center;
+  padding: 2rem 0 0;
+}
+.impactProfile_DmcHeadLogin {
+  text-align: center;
+  color: #fff;
+}
+.mat-ripple:not(:empty) {
+  transform: translateZ(0);
+}
+
+.impactProfile_DmcHeadEditPro {
+  text-align: center;
+  height: 4.9rem;
+  margin: 0 auto;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  cursor: pointer;
+  background-color: var(--primary-light);
+}
+.sidarbarnav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sidarbarnav .arrow-right {
+  position: absolute;
+  right: 32px;
+  font-size: 12px;
+}
+.sub-title {
+  font-size: 14px;
+  font-family: FontBoL;
+  padding-top: 4px;
+  font-weight: 700;
+}
+.sidebar {
+  padding: 10px;
+  margin: 0;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 0 0.6rem 0.2rem #dcdcdc5e;
+}
+.sidebar.-dashboard .sidebar__button {
+  border-bottom: 0.1rem #eee solid;
+}
+.box-bg {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 6px 2px #dcdcdc5e;
+}
+.profile_commonHead {
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  border-radius: inherit inherit 0 0;
+}
+.header-bo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: #00000026 0 3px 3px !important;
+  background-color: #13499F !important;
+}
+.header-margin {
+  margin-top: 117px !important;
+}
+.dataTables_filter {
+  margin-bottom: 20px;
+}
+
+.dataTables_filter {
+  display: none;
+}
+
+.dataTables_length {
+  display: none;
+}
+
+#datatable_wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  min-height: 363px;
+}
+
+.width-250 {
+ width: 250px  !important;
+}
+.imgheader {
+  width: 80px;
+}
+
+@media (min-width: 991px) {
+  .menu__nav-bo {
+    display: none !important;
+  }
+}
+@media (max-width: 991px) {
+  .dashboard__sidebar {
+    display: none !important;
+  }
+}
+.last-childsidebar {
+  border-bottom: 0rem #eee solid !important;
+}
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1400px !important;
+  }
+  .countryPage{
+    max-width: 1100px !important;
+  }
+
+
+
+
+
+
+
+}

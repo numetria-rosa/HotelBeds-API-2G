@@ -1,0 +1,8 @@
+<room rateKey="20230815|20230817|W|178|83779|DBL.ST|GAR TEST|BB||2~4~0||N@06~A-SIC~248101~-1294468099~N~~~NOR~C497E323F8DA4E9167837506354903AWTN00000080005000108248101">
+    <paxes>
+        <pax roomId="1" type="AD" name="test api" surname="test api"/>
+        <pax roomId="1" type="AD" name="test api" surname="test api"/>
+        <pax roomId="2" type="AD" name="test api" surname="test api"/>
+        <pax roomId="2" type="AD" name="test api" surname="test api"/>
+    </paxes>
+</room>
