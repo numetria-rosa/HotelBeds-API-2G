@@ -269,7 +269,6 @@ $site = new Site();
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAz77U5XQuEME6TpftaMdX0bBelQxXRlM"></script>
     <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
     <script src="<?php echo $WORKPATH ?>js/jquery-3.6.3.min.js"></script>
     <script src="<?php echo $WORKPATH ?>js/vendors.js"></script>
